@@ -1,8 +1,5 @@
 fun main() {
-    var nome: String = "Yuri"
-    println(nome)
+    var nome = "Yuri" // valor pode ser alterado
 
-    nome = "João"
-
-    println(nome)
+    val variavelImutavel = "Yuri" // val é como se fosse a const no javascript, o valor não pode ser alterado
 }
