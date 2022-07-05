@@ -1,5 +1,8 @@
 fun main() {
-    var nome: String = "Yuri" // valor pode ser alterado
+    val nome: String = "Tony"
+    val sobrenome: String = "Stark"
 
-    val variavelImutavel: String = "Yuri" // val é como se fosse a const no javascript, o valor não pode ser alterado
+    println("Olá, $nome $sobrenome !") // Concatenação com variável usando o $
+
+    println("Double ${Double.MAX_VALUE}") // Contatenação quando precisa usar algum atributo de uma variável ou obj
 }
