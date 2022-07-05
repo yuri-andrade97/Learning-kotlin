@@ -1,1 +1,3 @@
-Hello world
+fun main() {
+    println("Olá, Mundo!")
+}
