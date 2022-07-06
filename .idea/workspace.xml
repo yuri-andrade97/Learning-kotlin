@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="648c8a5d-b810-4f24-8ed3-fcac0a6074fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcoes-String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcoes-Matematicas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Funcoes_StringKt">
+  <component name="RunManager" selected="Kotlin.Funcoes_MatematicasKt">
     <configuration name="ExercicioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercicioKt" />
       <module name="kotlin" />
@@ -57,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcoes_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Funcoes_StringKt" />
+    <configuration name="Funcoes_MatematicasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes_MatematicasKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Funcoes_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes_StringKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Funcoes_MatematicasKt" />
         <item itemvalue="Kotlin.Funcoes_StringKt" />
         <item itemvalue="Kotlin.FuncoesKt" />
         <item itemvalue="Kotlin.ExercicioKt" />
         <item itemvalue="Kotlin.VariaveisKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
