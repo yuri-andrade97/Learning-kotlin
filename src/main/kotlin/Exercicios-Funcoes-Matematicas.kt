@@ -12,6 +12,8 @@ fun main() {
     println("********************************************")
 
     converterMilhaParaKm(1.8f)
+
+    println(ex5("Maracuja"))
 }
 
 fun conversorDeAno(anos: Int) {
@@ -43,4 +45,9 @@ fun converterMilhaParaKm(milha: Float) {
     val conversor = milha * 1.609
 
     println("${milha} milha convertida para KM é: ${conversor} KM")
+}
+
+fun ex5(str: String): String {
+    val strFormatada: String = str.lowercase().replace("a", "x")
+    return strFormatada
 }
