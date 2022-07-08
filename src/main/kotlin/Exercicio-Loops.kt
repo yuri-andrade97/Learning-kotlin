@@ -4,7 +4,9 @@ fun main() {
     //exercicio 3 imprimirNumerosNaOrdemCrescenteSemOsMultiplosDe5()
     //exercicio 4 somaTotalDe1Ate500()
 
-    imprimirUmaEscadaDeCaracter()
+    //exercicio 5 imprimirUmaEscadaDeCaracter()
+
+    while1()
 }
 
 fun imprimirNumerosNaOrdemCrescente(): Unit {
@@ -56,4 +58,17 @@ fun imprimirUmaEscadaDeCaracter(): Unit {
     }
 
 
+}
+
+fun while1() {
+    val capCaixa = 2000
+    val capBalao = 7
+
+    var numBaloes = 0
+
+    while((numBaloes * capBalao) + capBalao < capCaixa) {
+        numBaloes++
+    }
+
+    println("Cabem $numBaloes balões na caixa d'água.")
 }
